@@ -1,0 +1,5 @@
+print("programa que verifica nome e idade")
+nome= input("entre com seu nome.")
+idade= int(input("entre com sua idade"))
+print("seu nome é {} ".format(nome))
+print("voce tem",idade)
